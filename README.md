@@ -1,2 +1,2 @@
 # DataQuest-Projects
-projects from dataquest.io
+Python data analysis projects from dataquest.io
